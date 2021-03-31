@@ -1,0 +1,1 @@
+float func(int n, float f);
