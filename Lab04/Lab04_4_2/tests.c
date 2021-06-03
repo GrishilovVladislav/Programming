@@ -14,7 +14,7 @@ void test() {
 				  'K','L','M','N','O','P','R','C',
 				  'T','Y','F','X','U' };
 	assert(findChar('P',en,22) == 15);
-	assert(findChar('Á', rus, 22) == 2);
+	assert(findChar('Б', rus, 22) == 2);
 
 	printf("Got it\n");
 }
