@@ -1,0 +1,15 @@
+Wed Jun  2 22:08:24 2021
+ 050321 Aboba 50
+
+Wed Jun  2 22:09:07 2021
+ 053501 Grishilov 20
+
+Wed Jun  2 22:09:23 2021
+ 053501 Grishilov 20
+
+Wed Jun  2 22:09:43 2021
+ 030221 Ivanov 10
+
+Wed Jun  2 22:09:52 2021
+ 030221 Ivanov 40
+
