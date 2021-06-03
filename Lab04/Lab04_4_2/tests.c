@@ -22,6 +22,7 @@ void test() {
 #undef main
 
 int main() {
+	setlocale(LC_ALL, "RUS");
 	test();
 	return 0;
 }
