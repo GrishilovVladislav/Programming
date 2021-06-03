@@ -5,7 +5,6 @@
 #include "main.h"
 
 void test() {
-	setlocale(LC_ALL, "RUS");
 	  char rus[] = { 'А','Б','В','Г','Д','Е','Ж','З','И',
                   'К','Л','М','Н','О','П','Р','С',
                   'Т','У','Ф','Х','Ю' };
@@ -22,6 +21,7 @@ void test() {
 #undef main
 
 int main() {
+	setlocale(LC_ALL, "RUS");
 	test();
 	return 0;
 }
